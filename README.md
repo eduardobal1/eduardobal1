@@ -34,6 +34,6 @@
 
   
  
-  ![Snake animation](https://github.com/eduardobal1/eduardobal1/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/eduardobal1/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
